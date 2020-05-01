@@ -1,5 +1,7 @@
 # VIKS-free-respirator
 
+![`Final result sample`](final-result-sample/photos/respirator-v2-with-filters.jpg)
+
 ## Project purposes?
 The idea is to design the scheme of production of respirator capable with any kind of filter 
 based on `ISO 5367` connection port. The process of making this respirator should be simple, 
